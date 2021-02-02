@@ -1,0 +1,11 @@
+.edit{
+    cursor: pointer;
+    color:rgb(0, 55, 71)
+}
+.edit:hover{
+    color:#fff;
+}
+.h1{
+    font-family:Sans-serif;
+    color:#000;
+}
