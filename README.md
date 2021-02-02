@@ -8,18 +8,18 @@
 </p>
 <div align="center">
   
-[![GitHub contributors](https://img.shields.io/github/contributors/gaserashraf/todolist_raect)](https://github.com/todolist_raect/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/gaserashraf/todolist_raect)](https://github.com/gaserashraf/todolist_raect/issues)
-[![GitHub forks](https://img.shields.io/github/forks/gaserashraf/todolist_raect)](https://github.com/gaserashraf/todolist_raect/network)
-[![GitHub stars](https://img.shields.io/github/stars/gaserashraf/todolist_raect)](https://github.com/gaserashraf/todolist_raect/stargazers)
-[![GitHub license](https://img.shields.io/github/license/gaserashraf/todolist_raect)](https://github.com/gaserashraf/todolist_raect/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/gaserashraf/todolist_react)](https://github.com/todolist_react/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/gaserashraf/todolist_react)](https://github.com/gaserashraf/todolist_react/issues)
+[![GitHub forks](https://img.shields.io/github/forks/gaserashraf/todolist_react)](https://github.com/gaserashraf/todolist_react/network)
+[![GitHub stars](https://img.shields.io/github/stars/gaserashraf/todolist_react)](https://github.com/gaserashraf/todolist_react/stargazers)
+[![GitHub license](https://img.shields.io/github/license/gaserashraf/todolist_react)](https://github.com/gaserashraf/todolist_react/blob/master/LICENSE)
 
 </div>
 
 ## 🏁 Get Started <a name = "Install"></a>
 
 ```
-git clone https://github.com/gaserashraf/todolist_raect.git
+git clone https://github.com/gaserashraf/todolist_react.git
 ```
 ```
 npm install
