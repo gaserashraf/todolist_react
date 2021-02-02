@@ -1,7 +1,7 @@
 # Todo List using react
 <p align="center">
   <a href="" rel="noopener">
- <img width=100% src="cover.PNG" alt="logo"></a>
+ <img width=100% src="cover.png" alt="logo"></a>
 </p>
 <p align="center"> To do list
     <br> 
